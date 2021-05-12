@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+article {
+    margin-bottom: 1rem;
+}
+
+.categories li, .tags li{
+    display: inline-block;
+}
